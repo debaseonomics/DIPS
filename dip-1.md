@@ -35,6 +35,8 @@ The exact procedure to get the randomzied threshold is as follows:
 * Integer: Duration of rewards that will be revoked
 * Boolean: Award rewards before previous rewards have been distributed
 * Boolean: Pool is enabled for staking/withdrawal
+* Integer: LP limit per wallet
+* Integer: Total LP in pool
 * Normal distribution parameters
   * Integer[100]: Array filled with the numbers from Normal Distribution
   * Integer: Expected Value of the Normal Distribution (mean)

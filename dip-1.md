@@ -26,21 +26,20 @@ The exact procedure to get the randomzied threshold is as follows:
 2. Use RNG at every rebase cycle, and mod the obtained randomn number with the size of array to pick one value from the array.
 3. At every rebase cycle, check if integer obtained from 2. is >= the counter value.
 
-### Configurable parameters
-
-* Integer: Rewards requested by the the stabilizers
-* Integer: Duration over which rewards will be distributed
-* Boolean: Count positive rebases in sequence
-* Boolean: Revoke further rewards in case of non-positive rebase
-* Integer: Duration of rewards that will be revoked
-* Boolean: Award rewards before previous rewards have been distributed
-* Boolean: Pool is enabled for staking/withdrawal
-* Integer: LP limit per wallet
-* Integer: Total LP in pool
+### Configurable parameters 
+Note: parameters are of type unint256 unless specified otherwise
+* rewardPercentage: Rewards requested by the the stabilizers
+* duration: Duration over which rewards will be distributed
+* countInSequence (bool): Count positive rebases in sequence
+* revokeReward (bool): Revoke further rewards in case of non-positive rebase
+* revokeRewardPrecentage: Percentage of rewards that will be revoked
+* beforePeriodFinish (bool): Award rewards before previous rewards have been distributed
+* userLpLimit: LP limit per wallet
+* poolLpLimit: Total LP in pool
 * Normal distribution parameters
-  * Integer[100]: Array filled with the numbers from Normal Distribution
-  * Integer: Expected Value of the Normal Distribution (mean)
-  * Integer: Stantard deviation of the Normal Distribution
+  * normalDistribution (unint256[100]): Array filled with the numbers from Normal Distribution
+  * normalDistributionMean: Expected Value of the Normal Distribution (mean)
+  * normalDistributionDiv: Stantard deviation of the Normal Distribution
 
 ### Additional information
 Pool design by @PunkUnknown, with inputs from anon18382 on getting an approximation of Normal distribution on-chain

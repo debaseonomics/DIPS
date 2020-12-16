@@ -1,7 +1,7 @@
 ---
 yip: 1
 title: Composing with Stabilizer-pool 1
-status: WIP
+status: Accepted
 author(s): anon18382, @jusTaPunkk (@PunkUnknown)
 discussions-to: https://debaseonomics.medium.com/debase-v88-new-dawn-e6bc213796a3
 created: 12-11-2020

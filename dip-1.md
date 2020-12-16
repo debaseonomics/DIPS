@@ -27,7 +27,7 @@ The exact procedure to get the randomzied threshold is as follows:
 3. At every rebase cycle, check if integer obtained from 2. is >= the counter value.
 
 ### Configurable parameters 
-Note: parameters are of type unint256 unless specified otherwise
+Note: Parameters are of type uint256 unless specified otherwise
 * rewardPercentage: Rewards requested by the the stabilizers
 * duration: Duration over which rewards will be distributed
 * countInSequence (bool): Count positive rebases in sequence

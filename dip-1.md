@@ -35,7 +35,7 @@ Note: Parameters are of type uint256 unless specified otherwise
 * revokeRewardPrecentage: Percentage of rewards that will be revoked
 * beforePeriodFinish (bool): Award rewards before previous rewards have been distributed
 * userLpLimit: LP limit per wallet
-* poolLpLimit: Total LP limit per pool
+* poolLpLimit: Total LP limit of pool
 * Normal distribution parameters
   * normalDistribution (unint256[100]): Array filled with the numbers from Normal Distribution
   * normalDistributionMean: Expected Value of the Normal Distribution (mean)

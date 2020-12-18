@@ -7,7 +7,7 @@ discussions-to: https://discord.gg/2FaYk8VqT9
 created: 12-17-2020
 ---
 ## Simple Summary
-Update SP1 parameters to relax LP limits and increase rewards to incentivize DEBASE/DAI LPs.
+Update SP1 parameters to relax LP limits and increase rewards to incentivize DEBASE/DAI LPs to grow the DEBASE economy.
 
 ## Abstract
 Since SP1 has been launched and the LP limit was hit much faster than expected, this proposal calls to relax LP limits (both pool and wallet limits) and increase rewards to incentivize LPs during positive rebase cycles. While high inflation can cause downward price pressure, low inflation can lead to the same outcome since there is not enough incentive for LPs to take the Impermenant Loss and provide liquidity, which is very important for the protocol during positive rebase cycles. Inflation of some ideal range will grow the economy. This is a best guess at a value within the range.

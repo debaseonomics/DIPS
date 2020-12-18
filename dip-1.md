@@ -28,7 +28,7 @@ The exact procedure to get the randomzied threshold is as follows:
 
 ### Configurable parameters 
 Note: Parameters are of type uint256 unless specified otherwise
-* rewardPercentage: Rewards requested by the the stabilizers
+* rewardPercentage: Rewards requested by the the stabilizers as a percentage of the stabilizer pool rewards contract
 * duration: Duration over which rewards will be distributed
 * countInSequence (bool): Count positive rebases in sequence
 * revokeReward (bool): Revoke further rewards in case of non-positive rebase

@@ -19,6 +19,6 @@ This proposal aims to incentivize LPs to provide liquidity during the positive r
 ## Technical specification
 
 ### Parameters to update
-* rewardPercentage (Percentage of stabilizer pool rewards requested per reward duration) : Increase from 0.033 to 0.165 percent
+* rewardPercentage (Percentage of stabilizer pool rewards requested per reward duration) : Increase from 0.033 to 0.099 percent
 * userLpLimit (LP limit per wallet): Increase from 3K to 6K
 * poolLpLimit (Total LP limit per pool): Increase from 53k to 75K

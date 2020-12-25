@@ -1,7 +1,7 @@
 ---
 yip: 2
 title: Updating SP1 parameters
-status: WIP
+status: Accepted
 author(s): anon18382
 discussions-to: https://discord.gg/2FaYk8VqT9
 created: 12-17-2020

@@ -17,7 +17,7 @@ By using a single sided burn this creates a deflationary enviroment for long ter
 To create a mechanism that rewards long term governance participation without direct incentivization that willl inevitably lead to inflation. I think this would further cement our position as a 'long term' stable coin.
 
 ## Technical specification
-I thought to start off we would simply review what some of other people have done who are looking to create incentives for people to remain staked without increasing the rewards.
+I thought to start off we would simply review what other protocols have done who are looking to create incentives for people to remain staked without increasing the rewards.
 
 THUGS BUILT IN BURNING MECHANISM
 

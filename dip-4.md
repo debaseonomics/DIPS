@@ -32,7 +32,9 @@ Burn rate = 50% / ($2.297519562 / $0.36760313)
 
 Narwhal Token is another BNB protocol that takes a similar but less harsh approach to burns and also has a way of using spreads for auto-dividends.
 
-Contract address (Burn) is here.
+1) 10% of the mining rewards from users will be allocated and distributed to the dividend pool (to be distributed to NAR holders). (in our case degov staker)
+
+2）IMPORTANT: NAR tokens will undergo a 5% deduction from all trades. From this 5%, 2.5% of it will be burned and the remaining 2.5% will be transferred to the dividend pool (to be distributed to NAR holders). (we would use this for staking/unstaking to governance and not for trades since I don't think it's possible to implement that at this point.)
 
 These burnt $THUGS are split into the following allocation, with 51% going to a burn address and the other 49% going to a Thugs.Fi vault, whcih is called a protection fund. Tokens in this protection fund are used for future development, marketing, business relations, Liquidity Provider Air Drops, community management, community contests, THUGS DAO payments and various other expenses.
 

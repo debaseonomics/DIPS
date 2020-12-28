@@ -1,6 +1,6 @@
 ---
 yip: 4
-title: Incentivize DEGOV/ETH LP
+title: Incentivize DEGOV/ETH Uni V2 Liquidity
 status: WIP
 author(s): anon18382, @jusTaPunkk (@PunkUnknown)
 discussions-to: https://discord.gg/2FaYk8VqT9

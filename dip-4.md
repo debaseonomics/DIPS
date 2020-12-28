@@ -1,5 +1,5 @@
 ---
-yip: 4
+Dip: 4
 title: Single Sided Burn Mechanic For Governance
 status: WIP
 author(s): @Fabulousprizes

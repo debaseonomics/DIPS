@@ -1,7 +1,7 @@
 ---
 yip: 4
 title: Single Sided Burn Mechanic For Governance
-status: Proposed
+status: WIP
 author(s): @Fabulousprizes
 discussions-to: https://debaseonomics.medium.com/debase-v88-new-dawn-e6bc213796a3
 created: 12-26-2020

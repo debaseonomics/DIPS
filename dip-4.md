@@ -18,7 +18,7 @@ Since the rewards provided are in Debase, a rebasing token, a static reward rate
 
 ### Configurable parameters 
 Note: Parameters are of type uint256 unless specified otherwise
-* rewardPercentage: Rewards requested by the the pool as a percentage of the total supply
+* rewardPercentage: Rewards requested by the the pool as a percentage of Debase total supply
 * duration: Duration over which rewards will be distributed
 * userLpLimit: LP limit per wallet
 * poolLpLimit: Total LP limit of pool

@@ -1,5 +1,5 @@
 ---
-yip: 4
+dip: 4
 title: Incentivize DEGOV/ETH Uni v2 Liquidity
 status: WIP
 author(s): anon18382, @jusTaPunkk (@PunkUnknown)

@@ -1,5 +1,5 @@
 ---
-yip: 3
+dip: 3
 title: Updating SP1 parameters
 status: WIP
 author(s): anon18382

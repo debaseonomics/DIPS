@@ -1,5 +1,5 @@
 ---
-yip: 2
+dip: 2
 title: Updating SP1 parameters
 status: Accepted
 author(s): anon18382

@@ -1,5 +1,5 @@
 ---
-yip: 1
+dip: 1
 title: Composing with Stabilizer-pool 1
 status: Accepted
 author(s): anon18382, @jusTaPunkk (@PunkUnknown)

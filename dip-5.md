@@ -23,9 +23,9 @@ Review here for a visual representation: [https://cutt.ly/OjgN7iM](https://cutt.
 
 ### Configurable parameters 
 Note: Parameters are of type uint256 unless specified otherwise
-*poolLPlimit: Total LP limit of Pool
-*walletLPlimit: Max deposit per wallet
-*plimitEnabled(Boolean):Is total lp limit enabled 
-*wlimitEnabled(Boolean): Is Max Deposit per wallet enabled 
-*rewardRate: Percentage of total supply of Debase awarded per LP
-*fee: Percentage of fee taken by treasury from the DAI yield+protocol fees and MPH rewards
+* poolLPlimit: Total LP limit of Pool
+* walletLPlimit: Max deposit per wallet
+* plimitEnabled(Boolean):Is total lp limit enabled 
+* wlimitEnabled(Boolean): Is Max Deposit per wallet enabled 
+* rewardRate: Percentage of total supply of Debase awarded per LP
+* fee: Percentage of fee taken by treasury from the DAI yield+protocol fees and MPH rewards

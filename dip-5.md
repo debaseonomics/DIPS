@@ -2,7 +2,7 @@
 dip: 5
 title: Debased MPH pool (DM88)
 status: WIP
-author(s):  @McFly, @ZeframLou, @anon18382, @jusTaPunkk (@PunkUnknown)
+author(s):  @McFly(@guillaumepalayer), @ZeframLou, @anon18382, @jusTaPunkk (@PunkUnknown)
 discussions-to: N/A (Suprise launch)
 created: 01-07-2020
 ---

@@ -2,7 +2,7 @@
 dip: 5
 title: Debased MPH pool (DM88)
 status: WIP
-author(s):  @McFly(@guillaumepalayer), @ZeframLou, @anon18382, @jusTaPunkk (@PunkUnknown)
+author(s):  @McFly(@guillaumepalayer), @ZeframLou, @anon18382, @jusTaPunkk (@PunkUnknown), Ryuhei Matsuda (@ryuheimat)
 discussions-to: N/A (Suprise launch)
 created: 01-07-2020
 ---
@@ -29,3 +29,6 @@ Note: Parameters are of type uint256 unless specified otherwise
 * wlimitEnabled(Boolean): Is Max Deposit per wallet enabled 
 * rewardRate: Percentage of total supply of Debase awarded per LP
 * fee: Percentage of fee taken by treasury from the DAI yield+protocol fees and MPH rewards
+
+#### Notes
+Pool design by @anon18382, built by @ryuheimat

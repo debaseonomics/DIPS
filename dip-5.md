@@ -1,7 +1,7 @@
 ---
 dip: 5
 title: Debased MPH pool (DM88)
-status: PASSED
+status: Accepted
 author(s):  @McFly(@guillaumepalayer), @ZeframLou, @anon18382, @jusTaPunkk (@PunkUnknown), Ryuhei Matsuda (@ryuheimat)
 discussions-to: N/A (Suprise launch)
 created: 01-07-2020

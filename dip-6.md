@@ -25,4 +25,4 @@ The grant will be paid out over the following milestones over the following mont
 (USDC amounts will be converted to DEBASE on day grants are paid out)
 
 ### Notes
-The grant process will be mediated by VidarTheAuditor to ensure integrity. All assets will be first transfered from the rewards contract to the multi-sig where he is signatory.
+The grant process will be mediated by VidarTheAuditor to ensure integrity; he will audit the smartcontract written to request the grant. All assets will be first transfered from the rewards contract to the multi-sig where he is signatory.

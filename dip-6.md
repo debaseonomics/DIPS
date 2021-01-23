@@ -7,8 +7,7 @@ created: 23-01-2021
 ---
 
 ## Simple summary
-Request for grant of 34k USD over the course of the coming year, for Economics Design to do original research in stabilzation mechanisms in conjuction with academia, 
-help build and fine tune stabilizer pool based on generating a reserve for DEBASE.
+Request for grant of 34k USD over the course of the coming year, for Economics Design to do original research in stabilzation mechanisms of the synthetic asset DEBASE, in conjuction with academia, and help build, fine tune a stabilizer pool based on this research that will generate a reserve for DEBASE.
 
 ## Abstract
 As stabilization mechanisms of algo-stables becomes a important research topic in the field, 

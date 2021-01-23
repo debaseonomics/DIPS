@@ -3,6 +3,7 @@ dip: 5
 title: Grant for Economics Design
 status: WIP
 author(s): anon18382
+discussions-to: https://discord.gg/2FaYk8VqT9
 created: 23-01-2021
 ---
 

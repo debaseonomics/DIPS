@@ -29,4 +29,4 @@ The grant will be paid out over the following milestones over the following mont
 4) Final report: 4760 USDC
 
 ### Notes
-The payment process will be mediated by VidarTheAuditor to ensure integrity. All assets will be first transfered from the rewards contract to the multi-sig where he is signatory
+The payment process will be mediated by VidarTheAuditor to ensure integrity. All assets will be first transfered from the rewards contract to the multi-sig where he is signatory.

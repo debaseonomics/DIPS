@@ -1,6 +1,6 @@
 ---
 dip: 7
-title: Increase pool limit of DM88 pool
+title: Increase DM88 pool limit
 status: WIP
 author(s): anon18382
 discussions-to: https://discord.gg/2FaYk8VqT9

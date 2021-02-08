@@ -1,3 +1,4 @@
+---
 dip: 8
 title: Reimbursing the community 
 status: WIP

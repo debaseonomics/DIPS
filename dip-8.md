@@ -2,7 +2,7 @@
 dip: 8
 title: Reimbursing the community 
 status: WIP
-author(s): 0x548efCE69bb82a16f3911a86a65384327c99c3Ab
+author(s): 0x548...Ab
 discussions-to: https://discord.gg/2FaYk8VqT9
 created: 02-06-2021
 ---

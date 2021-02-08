@@ -15,7 +15,9 @@ On launch day of SP1 V1, the reward rate of SP1 was set to 100 times the reward 
 The transactions are as below and add upto 10,500 DEBASE, which is 0.000540148163 as a fraction of Total Supply:
 
 https://etherscan.io/tx/0xb0a9b84fd7faf9671f0559714ad5ddcef8a83ab333654c3162ff3d9b281614d9
+
 https://etherscan.io/tx/0x90133b4d48fc9425b1b211d1b3589cf0134d6b4a3430a4a449f5e668bf9495f5
+
 https://etherscan.io/tx/0x9b775a958ee0889997c154dca5ef5b1b71b257b6aff524815a1f72ae0ac3d7cc
 
 The members should be reimbursed in the percentage of total supply of Debase they sent to the rewards contract, especially since their transaction history reveals they didn't mine DEBASE from SP1 V1 themselves.  

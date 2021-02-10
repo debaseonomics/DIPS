@@ -22,11 +22,15 @@ https://debaseonomics.medium.com/sp2-user-guide-shut-the-door-behind-you-369646e
 ### Configurable parameters 
 A complete list of parameters and their values is available here: 
 https://thegraph.com/explorer/subgraph/debaseonomics/burnpool?version=current
+
 The most pertinent ones are listed below:
 
 Cycle length (Duration over which rewards are given out in expansion): 5 Epochs
+
 Epoch time: 6400 Block (~24 days)
+
 Oracle block Period (TWAP oracle for coupon window): 1000 Blocks (~4 hrs)
+
 Builders fee (request made to rewards contract as a percentage of the cycle's reward pot): 20% (upto 5% shared with community)
 
 ### Additional information

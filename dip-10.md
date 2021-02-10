@@ -21,4 +21,8 @@ Deployer 1: 0x3c4dd566C5F9B441e59cBE4dA0822B81B9500afD (4.065 ETH in gas fees as
 
 Deployer 2: 0x6dbbc75f2951B826730ac1b2B774C5dEC941A860 (3.172 ETH in gas fees as per fees.wtf)
 
+Multisig executor 1: 0x610822D64Fe9e710F9Edc68144BE866db70109bd (0.674 ETH in gas fees as per fees.wtf)
+
+Multisig executor 2: 0x38Ad8F7bbE670fb3384f7dFb06Ac3f44CEDB7b77 (0.877 ETH in gas fees as per fees.wtf)
+
 Note: Funds would be spent only in expansion and all transactions will be mediated by VidarTheAuditor through the DEBASE multi-sig.

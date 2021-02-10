@@ -1,6 +1,6 @@
 ---
 dip: 11
-title: Increasing minimum cap of SP2 rewards pot for current contraction cycle
+title: Increasing minimum rewards cap of SP2 for current contraction cycle
 status: WIP
 author(s): anon18382
 discussions-to: https://discord.gg/2FaYk8VqT9

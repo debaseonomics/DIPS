@@ -1,6 +1,6 @@
 ---
 dip: 10
-title: Automating rebase and fund past deployment costs
+title: Automating rebase and funding past deployment costs
 status: WIP
 author(s): anon18382, @jusTaPunkk (@PunkUnknown)
 discussions-to: https://discord.gg/2FaYk8VqT9

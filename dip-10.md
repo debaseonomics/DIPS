@@ -3,18 +3,21 @@ dip: 10
 title: Automating rebase and fund past deployment costs
 status: WIP
 author(s): anon18382, @jusTaPunkk (@PunkUnknown)
-discussions-to: https://debaseonomics.medium.com/debase-v88-new-dawn-e6bc213796a3
-created: 12-11-2020
+discussions-to: https://discord.gg/2FaYk8VqT9
+created: 02-10-2021
 ---
 ## Simple Summary
-Proposal to automate rebases and to fund past code deployments. Rebasing is an important part of Debase stabilization. As gas fees climb, it's important that incentives remain for rebase to called. 
-Likewise contract deployments costs need to be covered for deployment of new contracts, will be covered by builder's fees, but part of this allocation should be set aside for 
-covering past contract deployments.
-Set aside 0.5 pct of the Total supply for covering the cost of calling rebases and funding past deployment of contracts.
+Proposal to automate rebases and to fund past code deployments. Rebasing is an important part of Debase stabilization. As gas fees climb, it's important that incentives remain for rebase to called. Likewise contract deployments costs need to be covered for deployment of new contracts, will be covered by builder's fees, but part of this allocation should be set aside for covering past contract deployments.
+This proposal calls to set aside 0.5 pct of the Total supply for covering the cost of calling rebases in the future and for funding past deployment of contracts.
 These Debases would be spent only during expasions to minimize price impact. 
 
 ## Motivation
 To incentive rebase calling through automation, and to fund past contract deployments.
 
 ## Technical specification
-All transactions will be moderated by VidarTheAuditor.
+All transactions will be moderated by VidarTheAuditor. Here are the addresses used to make contract deployments:
+
+Deployer 1: 0x3c4dd566C5F9B441e59cBE4dA0822B81B9500afD (4.065 ETH in gas fees as per fees.wtf)
+Deployer 2: 0x6dbbc75f2951B826730ac1b2B774C5dEC941A860 (3.172 ETH in gas fees as per fees.wtf)
+
+Note: Funds would be spent only in expansion and all transactions will be mediated by VidarTheAuditor through the DEBASE multi-sig.

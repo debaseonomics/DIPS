@@ -10,7 +10,7 @@ created: 9th Feburary 2021
 Proposal to compose Stabilizer-pool 2 (SP2) with the Debaseonomics protocol, which will stabilize DEBASE, during negative rebase cycles.
 
 ## Abstract
-SP2 will use an new seignoirage system that seeks to minimize time price is far from peg thus overcoming one of the main issues of current seignoirage systems.
+SP2 will use an new seigniorage system that seeks to minimize time price is far from peg thus overcoming one of the main issues of current seignoirage systems.
 
 ## Motivation
 DEBASE is supposed to stabilize towards the target range. In line with the vision of Debaseonomics to use stabilizer-pools to stabilize DEBASE price, SP2 will do so in contraction cycles through an seignoirage system.

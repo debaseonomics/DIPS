@@ -18,6 +18,7 @@ To incentive rebase calling through automation, and to fund past contract deploy
 All transactions will be moderated by VidarTheAuditor. Here are the addresses used to make contract deployments:
 
 Deployer 1: 0x3c4dd566C5F9B441e59cBE4dA0822B81B9500afD (4.065 ETH in gas fees as per fees.wtf)
+
 Deployer 2: 0x6dbbc75f2951B826730ac1b2B774C5dEC941A860 (3.172 ETH in gas fees as per fees.wtf)
 
 Note: Funds would be spent only in expansion and all transactions will be mediated by VidarTheAuditor through the DEBASE multi-sig.

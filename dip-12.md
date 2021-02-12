@@ -15,4 +15,4 @@ Every time debase is above it's peg and a supply expansion happens. Debase's sup
 ## Technical specification
 The change will be mediated by VidarTheAuditor through the DEBASE multi-sig.
 ### Parameters to update
-* Rebase lag should be set to 25,20,15,10
+* Rebase lag should be set to 25,20,15 or 10

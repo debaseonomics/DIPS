@@ -1,7 +1,7 @@
 ---
 dip: 9
 title: Composing with Stabilizer-pool 2
-status: WIP
+status: Accepted
 author(s): anon18382
 discussions-to: https://discord.gg/2FaYk8VqT9
 created: 9th Feburary 2021

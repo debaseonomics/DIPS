@@ -1,5 +1,5 @@
 ---
-dip: 10
+dip: 12
 title: Decrease rebase lag for expansions
 status: WIP
 author(s): punkUnknown

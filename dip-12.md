@@ -17,4 +17,4 @@ The change will be mediated by VidarTheAuditor through the DEBASE multi-sig.
 ### Parameters to update
 * Rebase lag when epoch price > 1.05 DAI: Choices are 10, 15, 20, 25
 
-Note: This lag only applies during expansion and not contraction.
+Note: This lag change only applies during expansion and not contraction.

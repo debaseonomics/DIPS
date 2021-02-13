@@ -8,7 +8,7 @@ created: 12th February 2021
 ---
 ## Simple Summary
 Proposal to remove randomness from stabilizer pool 1 and to remove it's rebase counter and replacing it by a pool that gives rewards during rebase expansions/stability and pauses rewards during contraction. Due to rising gas costs and the continued price appreciation of LINK, it would be increasingly expensive to maintain the LINK powered random number generator in SP1. 
-Removing randomization also simplifies the rewards scheme and encourages liquidity. Where rewards are given out as soon as a positive rebase happens and pauses rewards as soon as a negative rebase happens. 
+Removing randomization also simplifies the rewards scheme and encourages liquidity. Rewards are given out as soon as a positive rebase happens and pauses rewards as soon as a negative rebase happens. 
 
 ## Motivation
 Simplification of the pool and higher APRs will increase interest in the pool and lower gas costs to run the pool.

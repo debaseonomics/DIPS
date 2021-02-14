@@ -20,5 +20,5 @@ This proposal also proposes increasing reward requests by the stabilizer pool. S
 1. SP1 gives out continous rewards over a period of 1 month. 
 2. Rewards stop when Debase TWAP price falls below < 0.95 $Dai
 3. Rewards start when Debase TWAP price goes above > 0.95 $Dai
-4. Increasing rebase reward to 0.005 during positive rebases and 0.0025 during stability (180000 and 90000 Debase per month at current Total supply respectively)
-5. Builders fee is 20 pct (requested seperately from rewards contract)
+4. Increasing rebase reward to during positive rebases and during stability, at the rate of 0.6 pct of Total supply per month and 0.3 pct of Total supply per month respectively.(~200k DEBASES per month and ~100k DEBASES per month at today's total supply)
+5. Builders fee is 20 pct (requested seperately from rewards contract), the same time reward requests are made.
